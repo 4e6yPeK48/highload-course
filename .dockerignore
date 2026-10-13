@@ -1,0 +1,6 @@
+.git
+.env*
+homework
+README.md
+*_test.go
+bin
